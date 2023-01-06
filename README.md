@@ -14,4 +14,4 @@ Mis pasatiemos son:
   Jugar videojuegos
   
 Correo de contacto:
-  raulaguaschavez@gmail
+raulaguaschavez@gmail
