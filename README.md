@@ -4,7 +4,6 @@
 Sobre mi:
 
 Mi nombre es Raul Aguas Chavez
-Tengo 22 años
 Soy originario de Tijuana, Mexico
 
 Ingeniero Electromecanico apasionado a la programacion y a la tecnologia, me estoy adentrando al tema de la programacion porque quiero aplicarlo en mi trabajo
